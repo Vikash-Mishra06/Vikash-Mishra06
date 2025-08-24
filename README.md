@@ -96,7 +96,7 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
+<div >
 <img src="https://github-readme-stats.vercel.app/api?username=Vikash-Mishra06&theme=gotham&show_icons=true&hide_border=false&count_private=true" width="450"/>
 <br/>
 <img src="https://streak-stats.demolab.com/?user=Vikash-Mishra06&theme=gotham&hide_border=false" width="450"/>
