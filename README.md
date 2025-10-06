@@ -24,9 +24,9 @@
 
 ## 🛠 Tech Stack
 <div align="center" style="line-height: 1.6;">
-<img src="https://img.shields.io/badge/Html-F7DF1E?logo=html&logoColor=orange&style=for-the-badge" height="30" />
+<img src="https://img.shields.io/badge/Html-FF0000?logo=html&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-    <img src="https://img.shields.io/badge/Css-F7DF1E?logo=css&logoColor=blue&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/badge/CSS-0000FF?logo=css&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" />
   <img width="8" />
