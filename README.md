@@ -24,7 +24,10 @@
 
 ## 🛠 Tech Stack
 <div align="center" style="line-height: 1.6;">
-
+<img src="https://img.shields.io/badge/Html-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" />
+  <img width="8" />
+    <img src="https://img.shields.io/badge/Css-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" />
+  <img width="8" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" />
@@ -39,15 +42,7 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Appwrite-FF6D00?logo=appwrite&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/shadcn/ui-111827?logo=shadcn&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/Framer%20Motion-EF4B4B?logo=framer&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
@@ -59,24 +54,12 @@
   <img width="8" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="30" />
-  <img width="8" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" />
   <img width="8" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="30" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" />
 <img width="8" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" height="30" />
-<img width="8" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" height="30" />
-<img width="8" />
-<img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white&style=for-the-badge" height="30" />
-<img width="8" />
-<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" height="30" />
-<img width="8" />
-<img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" height="30" />
 
 </div>
 
