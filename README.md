@@ -15,8 +15,8 @@ I focus on clean UI components, optimized backend logic, fast API performance, a
 I’m currently looking for an **entry-level MERN Developer** role where I can make an impact from day one.
 
 📍 **Location:** New Mumbai, Maharashtra  
-🔗 **LinkedIn:** [Vikash Mishra](https://www.linkedin.com/in/vikash-mishra-6803a1362/)
-
+🔗 **LinkedIn:** [Vikash Mishra](https://www.linkedin.com/in/vikash-mishra-6803a1362/) <br />
+🔗 **Portfolio:** [Vikash-Mishra-Portfolio](https://vikash-mishra-portfolio.vercel.app/)
 ---
 
 ## 🛠 Tech Stack  
