@@ -2,11 +2,9 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=50&duration=2500&pause=1200&color=58A0C8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vikash+Mishra!;Full+Stack+(MERN)+Developer;Building+%26+Data-driven+Web-Apps" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=50&duration=2500&pause=1200&color=58A0C8&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Vikash+Mishra!;Full+Stack+(MERN)+Developer;Building+%26+Data-driven+Web-Apps" alt="Typing SVG"/>
     </a>
 </div>
-
-<br/>
 
 ---
 
