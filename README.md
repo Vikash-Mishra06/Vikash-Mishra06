@@ -22,7 +22,7 @@ I’m currently looking for an **entry-level MERN Developer** role where I can m
 ---
 
 ## 🛠 Tech Stack  
-<div align="center" style="line-height: 1.7;">
+<div  style="line-height: 1.7;">
 
 ### ⭐ Frontend
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" height="40"/>
@@ -64,7 +64,7 @@ I’m currently looking for an **entry-level MERN Developer** role where I can m
 ## 📊 GitHub Stats  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vikash-Mishra06&theme=gotham&show_icons=true&hide_border=false&count_private=true" width="450"/>
+<img src="https://github-readme-stats-git-master-ritik307.vercel.app/api?username=Vikash-Mishra06&show_icons=true&theme=gotham" width="450" />
 
 <img src="https://streak-stats.demolab.com/?user=Vikash-Mishra06&theme=gotham&hide_border=false" width="450"/>
 
