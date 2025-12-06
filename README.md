@@ -62,11 +62,14 @@ I’m currently looking for an **entry-level MERN Developer** role where I can m
 ## 📊 GitHub Stats  
 <div align="center">
 
-<img src="https://github-readme-stats-git-master-ritik307.vercel.app/api?username=Vikash-Mishra06&show_icons=true&theme=gotham" width="450" />
+<!-- Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vikash-Mishra06&theme=2077" width="49%" />
 
-<img src="https://streak-stats.demolab.com/?user=Vikash-Mishra06&theme=gotham&hide_border=false" width="450"/>
+<!-- Streak -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vikash-Mishra06&theme=2077" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash-Mishra06&layout=compact&theme=gotham&hide_border=false" width="450"/>
+<!-- Top Languages -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vikash-Mishra06&theme=2077" width="49%" />
 
 </div>
 
