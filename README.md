@@ -16,7 +16,7 @@ I’m currently looking for an **entry-level MERN Developer** role where I can m
 
 📍 **Location:** New Mumbai, Maharashtra  
 🔗 **LinkedIn:** [Vikash Mishra](https://www.linkedin.com/in/vikash-mishra-6803a1362/) <br />
-🔗 **Portfolio:** [Vikash-Mishra-Portfolio](https://vikash-mishra-portfolio.vercel.app/)
+🔗 **Portfolio:** [Vikash-Mishra-Portfolio](https://vikash-mishra.vercel.app)
 ---
 
 ## 🛠 Tech Stack  
